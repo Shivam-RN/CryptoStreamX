@@ -21,7 +21,7 @@ const Page = async () => {
 
       <section className="w-full mt-7 space-y-4">
        
-      <p>categories</p>
+      <p>Categories</p>
       </section>
     </main>
   );
